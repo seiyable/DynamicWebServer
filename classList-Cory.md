@@ -24,4 +24,5 @@
   * [Bing Huang](http://github.com/bingiology)
   * [Eunjin Kim](http://github.com/eyejes)
   * [Seiya Kobayashi](http://github.com/seiyable)
+    * [heroku app](http://dwdtest.herokuapp.com/)
   * [Kyle K](https://github.com/KyleK12/sourcedstarter)
